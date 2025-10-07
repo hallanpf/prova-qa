@@ -44,5 +44,11 @@ O relatório de coverage será exibido no terminal e também deixado em `coverag
 
 ## Observações
 
+## Print teste
+
+Abaixo está o print do resultado dos testes (relatório de coverage gerado localmente):
+
+![Resultado dos testes](./print-test/print-resultado-teste.png)
+
 Este repositório foi criado como solução da prova de QA.
 # prova-qa
